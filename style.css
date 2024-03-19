@@ -1,0 +1,57 @@
+header{
+    color: darkorange;
+    position: sticky;
+    padding-left: 2cm;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    background-color: black;
+}
+#my_photo{
+    width: 500px;
+}
+body{
+    background-color: darkorange;
+    color: black;
+    margin: 0%;
+    font-size: 20px;
+}
+p.main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+}
+#myphoto{
+    width: 500px;
+    height: 500px;
+}
+div.myphoto{
+    padding-left: 2cm;
+}
+div.myspiritanimal{
+    padding-left: 2cm;
+}
+#instagram{
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-top: 2cm;
+    width: 150px;
+    height: 150px;
+}
+#youtube{
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-top: 2cm;
+    width: 200px;
+    height: 150px;
+}
+#telephone{
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-top: 2cm;
+    width: 150px;
+    height: 150px;
+}
+footer{
+    color: darkorange;
+    background-color: black;
+    text-align: center;maroon;
+}
